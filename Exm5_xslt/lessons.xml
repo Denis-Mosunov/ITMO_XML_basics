@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="lessons_to_xhtml.xsl" type="text/xsl"?>
+<lessons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="lessons_XML.xsd">
+    <lesson id="1">
+        <name>Технологии программирования</name>
+        <teacher>доцент Осипов Н.А.</teacher>
+        <datePeriod>25 апреля - 16 апреля 2024 г.</datePeriod>
+        <hours>50</hours>
+        <type>зачёт</type>
+    </lesson>
+    <lesson id="2">
+        <name>Введение в базы данных</name>
+        <teacher>ст. преп. Осетрова И.С.</teacher>
+        <datePeriod>18 апреля - 7 мая 2024 г.</datePeriod>
+        <hours>35</hours>
+        <type>зачёт</type>
+    </lesson>
+    <lesson id="3">
+        <name>Программирование C#</name>
+        <teacher>доцент Осипов Н.А.</teacher>
+        <datePeriod>13 мая - 31 мая 2024 г.</datePeriod>
+        <hours>50</hours>
+        <type>зачёт</type>
+    </lesson>
+    <lesson id="4">
+        <name>PL/pgSQL и реализация баз данных PostgreSQL</name>
+        <teacher>ст. преп. Ямщиков Д.В.</teacher>
+        <datePeriod>3 июня - 28 июня 2024 г.</datePeriod>
+        <hours>60</hours>
+        <type>экзамен</type>
+    </lesson>
+    <lesson id="5">
+        <name>Разработка Windows-приложений</name>
+        <teacher>доцент Осипов Н.А.</teacher>
+        <datePeriod>1 июля - 19 июля 2024 г.</datePeriod>
+        <hours>50</hours>
+        <type>зачёт</type>
+    </lesson>
+    <lesson id="6">
+        <name>Основы технологий разметки (HTML, XML)</name>
+        <teacher>ст. преп. Марченко Е.В.</teacher>
+        <datePeriod>22 июля - 31 июля 2024 г.</datePeriod>
+        <hours>25</hours>
+        <type>зачёт</type>
+    </lesson>
+</lessons>

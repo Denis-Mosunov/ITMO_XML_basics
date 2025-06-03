@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resumes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="resume.xsd">
+    <candidate id="1">
+        <firstName>Иван</firstName>
+        <lastName>Иванов</lastName>
+        <middleName>Иванович</middleName>
+        <currentWorkplace>АО "Северная Заря"</currentWorkplace>
+        <currentPosition>Старший разработчик</currentPosition>
+        <birthDate>1990-01-01</birthDate>
+        <age>35</age>
+        <education>высшее</education>
+        <address>г. Москва</address>
+        <phone>+7 (999) 999-99-99</phone>
+        <maritalStatus>женат</maritalStatus>
+        <desiredSalary>110000</desiredSalary>
+    </candidate>
+    <candidate id="2">
+        <firstName>Алена</firstName>
+        <lastName>Иванова</lastName>
+        <middleName>Ивановна</middleName>
+        <currentWorkplace>АО "Северная Заря"</currentWorkplace>
+        <currentPosition>Стажер</currentPosition>
+        <birthDate>1990-01-01</birthDate>
+        <age>35</age>
+        <education>высшее</education>
+        <address>г. Санкт-Петербург</address>
+        <phone>+7 (987) 999-88-77</phone>
+        <maritalStatus>не замужем</maritalStatus>
+        <desiredSalary>100000</desiredSalary>
+    </candidate>
+</resumes>

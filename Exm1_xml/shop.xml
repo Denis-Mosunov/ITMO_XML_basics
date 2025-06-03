@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<computerComponents>
+    <component>
+        <name>Процессор</name>
+        <price>100000</price>
+        <currency>RUB</currency>
+        <quantity>15</quantity>
+        <location>на складе</location>
+    </component>
+    <component>
+        <name>Видеокарта</name>
+        <price>95000</price>
+        <currency>RUB</currency>
+        <quantity>8</quantity>
+        <location>в магазине</location>
+    </component>
+    <component>
+        <name>Материнская плата</name>
+        <price>28000</price>
+        <currency>RUB</currency>
+        <quantity>12</quantity>
+        <location>на складе</location>
+    </component>
+    <component>
+        <name>Блок питания</name>
+        <price>11000</price>
+        <currency>RUB</currency>
+        <quantity>10</quantity>
+        <location>в магазине</location>
+    </component>
+</computerComponents>
